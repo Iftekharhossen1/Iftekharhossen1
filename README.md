@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iftekharhossen1
-- 👀 I’m interested in Web development, UI/UX Design, Data Entry, Content Writting.
+- 👀 I’m interested in Software Quality Assurance (SQA) Engineer, Web development, UI/UX Design, Data Entry, Content Writting.
 - 🌱 I’m currently learning UI/UX Design
-- 💞️ I’m looking to collaborate on UI/UX Design Company.
+- 💞️ I’m looking to collaborate on Software Quality Assurance (SQA) Company or UI/UX Design Company.
 - 📫 How to reach me: If you contact me, just mail this address- iftekharhossen.cse@gmail.com
 
 <!---
